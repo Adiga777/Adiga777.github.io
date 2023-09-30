@@ -2,7 +2,7 @@
 
 ---
 
-### Web Development
+### Data Analysis
 
 [Project 1: Personal Website](/sample_page)
 ![Personal Website](images/personal_website_thumbnail.jpg?raw=true)
@@ -30,7 +30,7 @@ A machine learning model for a specific task, such as image classification.
 
 ---
 
-### Mobile App Development
+### Machine Learning and Deep Learning
 
 [Project 6: To-Do List App](http://example.com/)
 ![To-Do List App](images/todo_app_thumbnail.jpg?raw=true)
