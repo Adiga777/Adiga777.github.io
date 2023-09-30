@@ -1,45 +1,60 @@
+# Your Name
+
+Web Developer | Data Scientist | Mobile App Developer
+
+---
+
 ## Portfolio
+
 
 ---
 
 ### Data Analysis
 
-[Project 1: Personal Website](/sample_page)
-![Personal Website](images/personal_website_thumbnail.jpg?raw=true)
-A personal website showcasing my skills and projects.
+[![Data Analysis](images/data_analysis_thumbnail.jpg)](http://example.com/)
 
-[Project 2: Blog Website](/pdf/sample_presentation.pdf)
-![Blog Website](images/blog_website_thumbnail.jpg?raw=true)
-A blog website with features like user authentication and comments.
-
-[Project 3: E-commerce Store](http://example.com/)
-![E-commerce Store](images/ecommerce_store_thumbnail.jpg?raw=true)
-An e-commerce store with a responsive design and payment integration.
+An in-depth analysis of a dataset using various data science techniques.
 
 ---
 
-### Data Science
+### Machine Learning Model
 
-[Project 4: Data Analysis](http://example.com/)
-![Data Analysis](images/data_analysis_thumbnail.jpg?raw=true)
-An in-depth analysis of a dataset using various data science techniques.
+[![Machine Learning Model](images/machine_learning_thumbnail.jpg)](http://example.com/)
 
-[Project 5: Machine Learning Model](http://example.com/)
-![Machine Learning Model](images/machine_learning_thumbnail.jpg?raw=true)
 A machine learning model for a specific task, such as image classification.
 
 ---
 
-### Machine Learning and Deep Learning
+### Jupyter ML Project
 
-[Project 6: To-Do List App](http://example.com/)
-![To-Do List App](images/todo_app_thumbnail.jpg?raw=true)
+[![Jupyter ML Project](images/jupyter_ml_project_thumbnail.jpg)](https://github.com/yourusername/your-jupyter-ml-project)
+
+A machine learning project implemented in Jupyter notebooks.
+
+---
+
+### To-Do List App
+
+[![To-Do List App](images/todo_app_thumbnail.jpg)](http://example.com/)
+
 A mobile app for managing tasks and to-do lists.
 
-[Project 7: Weather App](http://example.com/)
-![Weather App](images/weather_app_thumbnail.jpg?raw=true)
+---
+
+### Weather App
+
+[![Weather App](images/weather_app_thumbnail.jpg)](http://example.com/)
+
 A weather app that provides forecasts based on user's location.
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+## Contact
+
+Email: your@email.com
+
+Phone: (123) 456-7890
+
+---
+
+&copy; 2023 Your Name
