@@ -1,6 +1,6 @@
-# Your Name
 
-Web Developer | Data Scientist | Mobile App Developer
+
+Data Analyst | Data Scientist | Machine Learning
 
 ---
 
@@ -33,14 +33,6 @@ A machine learning project implemented in Jupyter notebooks.
 
 ---
 
-### To-Do List App
-
-[![To-Do List App](images/todo_app_thumbnail.jpg)](http://example.com/)
-
-A mobile app for managing tasks and to-do lists.
-
----
-
 ### Weather App
 
 [![Weather App](images/weather_app_thumbnail.jpg)](http://example.com/)
@@ -51,10 +43,9 @@ A weather app that provides forecasts based on user's location.
 
 ## Contact
 
-Email: your@email.com
+Email: Tatyana_doughouz@yahoo.com
 
-Phone: (123) 456-7890
 
 ---
 
-&copy; 2023 Your Name
+&copy; 2023 TD
