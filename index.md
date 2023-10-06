@@ -46,18 +46,26 @@ A weather app that provides forecasts based on user's location.
 <pre><code>
 # Python code to calculate the sum of two numbers
 
-Practical example
-Importing the relevant libraries
-import numpy as np
-import pandas as pd
-import statsmodels.api as sm
-import matplotlib.pyplot as plt
-from sklearn.linear_model import LinearRegression
-import seaborn as sns
-sns.set()
-Loading the raw data
-raw_data = pd.read_csv('1.04. Real-life example.csv')
-raw_data.head()
+<details>
+<summary>Python Code Example (Click to Expand)</summary>
+<pre><code>
+# Python code to calculate the sum of two numbers
+
+def calculate_sum(a, b):
+    return a + b
+
+result = calculate_sum(5, 7)
+print("The sum is:", result)
+</code></pre>
+</details>
+
+---
+
+### Results
+
+#### Graph
+
+![Graph](images/your_graph.png)
 </code></pre>
 </details>
 
