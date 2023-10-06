@@ -59,6 +59,12 @@ print("The sum is:", result)
 </code></pre>
 </details>
 
+#### Table
+
+| Column 1 | Column 2 |
+|----------|----------|
+|   Value  |   Value  |
+|   Value  |   Value  |
 ---
 
 ### Results
