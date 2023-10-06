@@ -23,6 +23,16 @@ An in-depth analysis of a dataset using various data science techniques.
 
 A machine learning model for a specific task, such as image classification.
 
+#### Python Code Example
+
+```python
+# Python code to calculate the sum of two numbers
+
+def calculate_sum(a, b):
+    return a + b
+
+result = calculate_sum(5, 7)
+print("The sum is:", result)
 ---
 
 ### Jupyter ML Project
