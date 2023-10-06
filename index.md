@@ -27,7 +27,7 @@ A machine learning model for a specific task, such as image classification.
 
 ### Jupyter ML Project
 
-![Jupyter Logo](images/jupyter_logo.png)
+![Jupyter Logo](jupyter.png)
 
 [![Jupyter ML Project](images/jupyter_ml_project_thumbnail.jpg)](https://github.com/yourusername/your-jupyter-ml-project)
 
@@ -47,7 +47,7 @@ result = calculate_sum(5, 7)
 print("The sum is:", result)
 </code></pre>
 
-[Open this code in Jupyter Notebook](link_to_your_notebook.ipynb)
+[Open this code in Jupyter Notebook](sklearn+-+Linear+Regression+-+Practical+Example+(Part+5).ipynb)
 </details>
 
 ---
