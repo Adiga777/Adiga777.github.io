@@ -19,7 +19,7 @@ An in-depth analysis of a dataset using various data science techniques.
 
 ### Machine Learning Model
 
-[![Machine Learning Model](images/machine_learning_thumbnail.jpg)](http://example.com/)
+[![Machine Learning Model](Screenshot 2023-10-06 110236.png)](http://example.com/)
 
 A machine learning model for a specific task, such as image classification.
 
