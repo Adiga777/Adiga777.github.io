@@ -25,7 +25,7 @@ A machine learning model for a specific task, such as image classification.
 
 ---
 
-### Jupyter ML Project  <img src="jupyterlogo.png" alt="Jupyter Logo" width="60">
+### Jupyter ML Project  <img src="jupyterlogo.png" alt="Jupyter Logo" width="35">
 
 
 [![Jupyter ML Project](images/jupyter_ml_project_thumbnail.jpg)](https://github.com/yourusername/your-jupyter-ml-project)
