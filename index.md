@@ -33,7 +33,7 @@ A machine learning project implemented in Jupyter notebooks.
 
 ---
 
-### Weather App
+### Power BI
 
 [![Weather App](images/weather_app_thumbnail.jpg)](http://example.com/)
 
